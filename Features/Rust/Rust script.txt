@@ -1,0 +1,81 @@
+Script
+MAIN
+▸Menu Color
+▸Beep Sounds
+▸Reset Key
+▸Recoil On
+▸Hipfire
+▸Legit Mode
+▸Humanization
+▸Control X | 0 - 100 |
+▸Control Y | 0 - 100 |
+▸Panic Button
+
+SETTINGS
+▸ Zoom Hack
+▸ Detect InGame Settings
+▸ Anti AFK
+▸ Auto Upgrade
+▸ Anti AFK
+▸ Auto Code Enterer
+
+MISC
+▸ Auto Weapon Detection
+▸ Auto Scope Detection
+▸ Auto Fishing
+▸ Anti Fog
+▸ Movement detection
+▸ Ferlizer sell
+▸ Fast Planting
+▸ Silent Walk
+▸ Mini Overlay
+▸ Script Hide/Show
+▸ Row Drop
+▸ Armor Loot
+▸ Silent Walk
+▸ Spam Chat
+▸ Auto Loot
+▸ Better Eoka
+▸ Auto Run
+▸ Cycle Gun
+▸ Cycle Scope
+
+Distance
+▸ Enable
+▸ Weapon & Explosive
+▸ Items
+▸ Attire
+▸ Distance length▸ Enable
+▸ Weapon & Explosive
+▸ Items
+▸ Attire
+▸ Distance length
+
+Keybinds
+▸ Any Key (BIND)
+
+Customize
+▸ Particle
+▸ Speed
+▸ Dots
+▸ Crouch Key
+▸ HipFire Key
+
+Configs
+▸ Config Create
+▸ Config Delete
+▸ Config Load
+▸ Config Save
+▸ Config Reset
+
+FishBot
+▸ Fish Bot
+▸ Auto Eating & Drinking
+▸ Instantly Gut
+▸ Fishing only Salmon & Shark
+▸ Change brake fishing rod
+▸ Exit Bot
+▸ Eating intervals (0-60 minutes)
+▸ Open Box (BIND)
+▸ Exit Box (BIND)
+▸ Exit Bot (BIND)

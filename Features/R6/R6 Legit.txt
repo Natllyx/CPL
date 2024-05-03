@@ -1,0 +1,22 @@
+Legit
+
+ESP
+
+Enemies | Teammates | Hostage
+Skeleton ESP
+Skeleton Outline
+Skeleton Thickness Slider
+Box ESP
+Health ESP
+Operater ESP
+Playername
+Gadgets
+Pings
+Size Slider
+Traps | Breach 
+
+AIM
+Aimbot
+FOV
+FOV SLIDER
+Recoil

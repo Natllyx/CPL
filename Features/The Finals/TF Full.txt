@@ -1,0 +1,23 @@
+AIMBOT
+
+Enabled - Aimbot enabled
+Aim at shoot 
+Aimbot type 
+Visible only 
+Enemy only 
+Recoil compensation
+Draw FOV
+Hitbox priority 
+Aim key
+Second aim key
+
+VISUALS
+
+Enabled - Visuals enabled
+Enemy only - Visuals for enemies only
+Box - Draw player box
+Box outline
+Health - Draw health bar
+Skeleton - Draw skeleton
+Maximum Distance - Distance for visuals, skeleton, box
+Player info - Nickname, distance, et

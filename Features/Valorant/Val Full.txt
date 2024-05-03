@@ -1,0 +1,45 @@
+Aimbot
+
+Enable / Disable
+Save Target
+AimLock
+Visibility Check
+Visibility Check By Color
+Draw FOV
+Draw Corsshair
+Draw Target
+Switch To Head
+FOV Size
+Smoothness
+Aim Delay
+Hitbox
+Recoil Control
+Humanized Smooth
+
+Visuals
+
+Enable / Disable
+Remove Dormat
+Team Check
+Max Distance
+Font Size
+Head Circle
+Distance
+Visible / Non Visible Color
+Box
+Lines
+Skeleton
+Thickness
+Health
+
+Misc
+
+Config
+Save Config
+Streamproof
+Debug
+
+MISC
+Field Of View Changer (FOV Changer)
+Stream Proof Ability
+Unlock Tool

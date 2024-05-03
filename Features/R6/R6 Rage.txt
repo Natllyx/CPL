@@ -1,0 +1,45 @@
+Rage
+[ AIMBOT ]
+
+Silent Aimbot
+Memory Aimbot
+Hitbox Selection
+Hitchance Slider
+Draw FOV
+FOV Slider
+Scoped FOV Slider
+Visible Check
+Smoothness Slider
+Smoothness
+Prediction
+Target Knocked
+Target Teammates
+ 
+[ TRIGGERBOT ]
+
+Triggerbot Toggle
+Custom Hotkey
+
+[ WEAPON ]
+
+Recoil Compensation Slider
+All Weapons Full Auto
+
+[ ESP ]
+
+Skeleton ESP
+Seer ESP
+Player Name
+Healthbars
+Character Name
+Active Weapon
+Engine Glow [ Visible / Rainbow / Static / Team / Health ]
+Glow Strength
+Smart Item ESP
+Radar UAV
+Map UAV
+
+[ MISC ]
+
+Training Bypass
+Thirdperson

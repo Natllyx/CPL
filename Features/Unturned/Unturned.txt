@@ -1,0 +1,51 @@
+Aimbot
+▸Aim at shoot.
+▸Visible only.
+▸One mode (Silent).
+▸Changable FOV.
+
+Visuals
+▸Player ESP
+Enemy only.
+Box.
+Box outline.
+Skeleton.
+Distance.
+Player info (Nickname, distance, weapon).
+▸Zombies ESP
+Box.
+Box Outline.
+Skeleton.
+Distance.
+Show distance.
+▸Loot ESP
+Distance.
+Show distance.
+Filter:
+Farm.
+Traps And Sentries.
+Explosives.
+Generators.
+Building.
+Clothing.
+Weapons.
+Attachments.
+Food.
+Fuel.
+Tools.
+Storages.
+Other.
+
+Misc
+▸Override FOV.
+▸Custom Game Time.
+▸Display compass.
+▸Display map.
+▸Remove Shakes.
+▸Remove Sway.
+▸Remove gray effect.
+▸Remove dodge effect.
+▸Remove Recoil (0-100%).
+▸Remove Spread (0-100%).
+▸Extended melee.
+▸Distance unit (Meters, Feet, Yard).

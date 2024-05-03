@@ -1,0 +1,111 @@
+Rage
+
+AIM
+
+Silent Aim (Head, Chest, Stomach, Closest Bone)
+Aimbot Smoothing
+Target Team
+Hitchance %
+Draw FOV
+Target Line
+Fire Speed
+Fast Bullet
+Weapon
+Always Automatic
+Instant Eoka
+Instant Bow
+Shotgun Nospread
+Thick Bullet (0m – 1m)
+Recoil X -Recoil Y
+Spread
+Fire Speed
+
+VISUALS
+
+Player ESP
+Show Team
+Show Wounded
+Show Sleeper
+Show Ghost
+Name ESP
+Box (Full, Corner)
+Healthbar (Side, Bottom, Top)
+Distance (Side, Top, Bottom, Name)
+Skeleton
+Bounding Box
+Chams (Red Glow, Green Glow, Glossy Red, Lime, Yellow Glow, Pink)
+
+Word Visuals
+
+Ore Name
+Ore Distance
+Sulfur
+Metal
+Stone
+Collectable Name
+Collectable Distance
+Hemp
+Hemp Distance
+Vehicle Name
+Vehicle Distance
+Minicopter
+Scrap Heli
+Deployable Name
+Deployable Distance
+Stash
+Tool Cupboard ESP (Show Upkeep, Show Auth)
+Show Upkeep
+Show Auth
+Tool Cupboard Distance
+Workbench ESP (T1, T2, T3)
+Workbench Distance
+Other World Name
+Other World Distance
+Corpse ESP
+Dropped Weapon
+Hackable Crate
+Traps (Shotgun Trap, Auto Turret, Sam Site)
+Trap Max Distance
+
+Radar
+Enabled
+Players
+Entites
+Size
+Distance
+
+Web Radar
+Web Link for online radar for friends
+
+MISC
+
+No Fall Damage
+Infinite Jump
+Spiderman
+Flyhack (Toggle, Hold)
+Fakelag (Toggle, Always)
+Suicide
+Admin Flags
+Zoom
+FOV Changer
+Time Changer
+Bright Night
+Long Neck
+Remove Layer
+
+Menu Settings
+Shadow Intensity/Size
+Menu Accent Color
+Watermark
+Crosshair
+Disable crosshair while aiming
+Configs
+Configs
+Custom Config System
+Players
+Player List
+Settings
+Draw DEBUG ESP
+Cheat Indicators
+Menu Bind
+Combat Mode

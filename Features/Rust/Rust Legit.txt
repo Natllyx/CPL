@@ -1,0 +1,12 @@
+Legit
+-ESP
+Enemy
+NPC
+TEAM
+Boxes
+Name
+Hotbar
+
+-Weapons
+Recoil Slider
+World ESP

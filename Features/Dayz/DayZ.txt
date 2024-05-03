@@ -1,0 +1,48 @@
+AIM
+Silent Aim (magic bullet)
+Custimizable hotkeys
+Bone selection
+Nearest bone
+Target Modes (Distance, Crosshair)
+Draw FOV
+Aim line
+Customizable FOV
+Customizable smoothing
+Advanced prediction
+Humanized trajectories
+Focus Infected
+Maximum distance
+
+Visuals
+Players ESP
+Zombies ESP
+Animals ESP
+Cars ESP
+Customizable Boxes
+Snapline
+Distance
+Name
+Skeleton
+Inventory
+Weapon
+Maximum distance
+
+Misc
+2D Radar
+Items ESP
+Advanced loot filter
+Draw Crosshair
+Free camera
+Corpse ESP
+Instant Hit
+Force Crosshair
+Force 3rd person
+No grass
+
+Others
+Instant delivery
+Auto update
+Fully streamproof
+Screenshots protection
+Disableable watermark
+Custom colors

@@ -1,0 +1,20 @@
+VISUALS
+
+Enabled - Visuals enabled
+Enemy only - Visuals for enemies only
+Box - Draw player box
+Box outline
+Health - Draw health bar
+Skeleton - Draw skeleton
+Maximum Distance - Distance for visuals, skeleton, box
+Player info - Nickname, distance, etc
+Vehicle - Draw vehicle ESP
+Loot - Draw loot ESP
+
+Aim
+
+Aimbot
+Silent Aim
+Aim key
+No recoil
+Predictions

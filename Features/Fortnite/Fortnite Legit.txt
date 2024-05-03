@@ -1,0 +1,27 @@
+LEGIT
+[ AIMBOT ]
+Aimbot
+Aimkey Selection
+Aimbone Selection
+FOV Circle
+FOV Slider
+Smoothing Slider
+Distance Slider
+
+[ ESP ]
+Skeleton ESP
+Box ESP
+Name ESP
+Distance ESP
+Head Circle ESP
+Item ESP
+Minimum Item Rarity Selection
+Chest ESP
+Vehicle ESP
+
+[ MISC ]
+Weakpoint
+Weak Smoothing
+Color Customization
+Fov changer
+Skin Unlocker (5 of each)

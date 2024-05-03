@@ -1,0 +1,35 @@
+RAGE
+AIMBOT
+
+Enable (Enable/Disable The Aimbot)
+TriggerBot (Enable/Disable The Triggerbot)
+NPC Aimbot (Targets NPC/Bots)
+Save Target (Save Current Target if New One Enters FOV)
+Aim Lock (Remove All Smoothing)
+Visibility Check (Check if Enemy is Visible)
+Ignore Downed (Aimbot Wont Target Downed Players)
+Weapon Only (Aimbot Will Work With Weapons Only)
+Draw FOV (Draw The Circle FOV)
+Draw Crosshair (Draw a Simple + Crosshair)
+Draw Target (Draw a Line to Target)
+Smooth (Make The Aimbot Less/More Legit Looking)
+TriggerBot Delay (Customize The Time TriggerBot Takes to React)
+Hitbox (Choose The Hitbox Aimbot Will Target)
+
+VISUALS
+
+Player (Skeleton & Box)
+2D Rounded & 2D Centered
+Circle & Diameter Field of View
+Aimline (Line to Target)
+Loot (Uncommon, Common, Rare, Epic, Legendary, and Chests)
+
+MISC
+
+Radar
+Out of Screen
+Choose The Desired Hotkey For Each Action
+Customizable Colors For Each Cheat Feature
+Save/Load Configs
+Font Selector (Default/FN Font)
+Skin Changer (10 each)
